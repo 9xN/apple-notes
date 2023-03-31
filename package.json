@@ -1,0 +1,23 @@
+{
+  "name": "apple-notes",
+  "version": "1.0.0",
+  "description": "Data managment & formatting tool",
+  "main": "cli.js",
+  "preferGlobal": true,
+  "bin": {
+    "notes": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/9xN/apple-notes"
+  },
+  "author": "github.com/9xN",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/9xN/apple-notes/issues"
+  },
+  "homepage": "https://github.com/9xN/apple-notes#readme"
+}
